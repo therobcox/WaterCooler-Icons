@@ -13,7 +13,7 @@ Includes WaterCooler folder theme
 <img width="1920" height="1080" alt="WaterCooler" src="https://github.com/user-attachments/assets/017d9ece-1ead-4605-80c8-d12bcb5c598b" />
 
 # Installation
-Download WaterCooler Icons here: <a href="https://www.gnome-look.org/p/2310522/">https://www.gnome-look.org/p/2310522/</a>
+Download WaterCooler Icons here: <a href="https://www.gnome-look.org/p/2316378/">https://www.gnome-look.org/p/2316378/</a>
 
 Right-click on file WaterCooler-Icons.tar.xz and select "Extract Here"
 
